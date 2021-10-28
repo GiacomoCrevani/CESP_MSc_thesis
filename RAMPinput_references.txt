@@ -1,0 +1,8 @@
+[1] F. Lombardi, S. Balderrama, S. Quoilin, and E. Colombo, “Generating high-resolution multi-energy load profiles for remote areas with an open-source stochastic model,” Energy, vol. 177, pp. 433–444, 2019, doi: 10.1016/j.energy.2019.04.097
+[2] G. Falchetta, N. Stevanato, M. Moner-girona, D. Mazzoni, E. Colombo, and M. Hafner, “M-LED: Multi-sectoral Latent Electricity Demand Assessment for Energy Access Planning,” 2020.
+[3] www.lbl.gov
+[4] www.vevor.it
+[5] www.nrel.gov/docs/fy03osti/34008.pdf
+[6] www.energyrating.gov.au
+[7] www.researchgate.net/figure/Power-demand-of-a-typical-off-site-ATM-installation-in-Ekpoma-Nigeria_tbl1_314154055 [accessed 3 Sep, 2021]
+[8] Private consultancy with Gommyr Power Networks ltd.
