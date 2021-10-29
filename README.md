@@ -9,4 +9,4 @@ Each appliance is described with the parameters required by RAMP.
 * **RAMP_CESP_Thesis** contains the files as in https://github.com/RAMP-project/RAMP with inputs adapted to the case study. Three sub-cases have been considered:
 	* Case A - This case formulates the demand of the 21 IGAs only ([1],[3],[4],[5],[6],[7])
 	* Case B - As Case A with additional 80 low income households and 20 high income ones 	(appliances referred to Tier 1 and Tier 4 of [2])
-	* Case C - As Case B with the additional installation of air conditioned units of three sizes depending on the user [8]
+	* Case C - As Case B with the additional installation of air conditioning units of three sizes depending on the user [8]
