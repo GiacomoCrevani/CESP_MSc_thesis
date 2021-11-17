@@ -1,4 +1,4 @@
-# CESP_MSC_thesis
+# CESP_MSc_thesis
 
 This repository has been created to the scope of sharing the input files and the results of my MSc thesis. It is structured as follows: 
 
