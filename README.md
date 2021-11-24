@@ -11,4 +11,4 @@ Each appliance is described with the parameters required by RAMP.
 	* Case B - As Case A with additional 80 low income households and 20 high income ones 	(appliances referred to Tier 1 and Tier 4 of [2])
 	* Case C - As Case B with the additional installation of air conditioning units of three sizes depending on the user [8]
 * **MicroGridsPy_CESP_Thesis** contains the files as in https://github.com/SESAM-Polimi/MicroGridsPy-SESAM/tree/MYCE/Code with the demands for the three cases, the renewable energy sources available and the parameters described in the Case Study. The standard input is referred to Case A.
-*  **mintohours_norm.py** simple code to convert the average output profile of RAMP from minute to hourly resolution, as required to input in MicrogridsPy
+*  **mintohours_norm.py** simple code to convert the average output profile of RAMP from minute to hourly resolution, as required as input in MicrogridsPy
